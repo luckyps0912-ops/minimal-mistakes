@@ -1,11 +1,11 @@
 ---
-title: "Welcome to MY Jekyll Practice"
+title: "Welcome to MY Jekyl1 Practice"
 header: 
   teaser: "/assets/images/500x300.png"
 categories:
   - Jekyll
 tags:
   - update
- ---
+---
 
- This is my jekyll practice.
+This is my jekyll practice.
