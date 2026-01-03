@@ -1,5 +1,5 @@
 ---
-title: "Welcome to MY Jekyl1 Practice"
+title: "Welcome to MY Jekyll Practice"
 header: 
   teaser: "/assets/images/500x300.png"
 categories:
